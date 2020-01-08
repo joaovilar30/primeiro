@@ -1,0 +1,2 @@
+gets age
+puts age

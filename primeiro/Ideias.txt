@@ -1,0 +1,14 @@
+PARA TAMANHO DA PALAVRA 
+lenght = input
+
+if 
+    testword.lenght() = lenght 
+    continue
+
+PARA LETRAS 
+letter1  = input
+letter2  = input
+letter3  = input
+
+if testword.include? letter1 and testword.include? letter2 and testword.include? letter2
+  
